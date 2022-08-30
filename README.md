@@ -1,4 +1,3 @@
-# Curso
+# Curso "Python para ciencias sociales"
 
-Este es el repositorio de mi curso de **programación**
-
+Resolución de ejercicios del curso "Python para ciencias sociales" dictado por la **Facultad de Filosofía y Humanidades** de la **Universidad Nacional de Córdoba**
